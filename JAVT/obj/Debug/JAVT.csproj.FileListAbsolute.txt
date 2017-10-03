@@ -1,0 +1,8 @@
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAVT\JAVT\bin\Debug\JAVT.exe.config
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAVT\JAVT\bin\Debug\JAVT.exe
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAVT\JAVT\bin\Debug\JAVT.pdb
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAVT\JAVT\obj\Debug\JAVT.csprojResolveAssemblyReference.cache
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAVT\JAVT\obj\Debug\JAVT.MainForm.resources
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAVT\JAVT\obj\Debug\JAVT.csproj.GenerateResource.Cache
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAVT\JAVT\obj\Debug\JAVT.exe
+C:\Users\iru-oas\Documents\SharpDevelop Projects\JAVT\JAVT\obj\Debug\JAVT.pdb
